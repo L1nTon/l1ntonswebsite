@@ -37,3 +37,11 @@ body{
 .portfolio li:hover .descr {
     opacity: 1;
     transform: rotateY(0deg);
+}
+
+.love a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+        
